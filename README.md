@@ -11,5 +11,5 @@ Dataset: https://www.kaggle.com/oddrationale/mnist-in-csv
 2. https://github.com/peimengsui/semi_supervised_mnist
 3. https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/
 
-If you are interested in similar topic then check my this repo:
+# If you are interested in similar topic then check my this repo:
 https://github.com/Pinakee15/Text-Classification-when-data-is-very-small-
